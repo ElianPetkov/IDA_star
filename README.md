@@ -1,5 +1,5 @@
 <pre>
-<strong>8puzzle and 16puzzle problem solver with IDA* algorithm with manhattan distance</strong>
+<strong>8puzzle and 16puzzle problem solver with IDA* algorithm and manhattan distance</strong>
 
 <strong>Problem:</strong> 
 The 8-puzzle problem is a puzzle invented and popularized by Noyes Palmer Chapman in the 1870s.
