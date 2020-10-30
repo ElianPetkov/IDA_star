@@ -1,12 +1,12 @@
 <pre>
-<strong>8puzzle and 16puzzle problem solver with IDA* algorithm</strong>
+<strong>8puzzle and 16puzzle problem solver with IDA* algorithm with manhattan distance</strong>
 
 <strong>Problem:</strong> 
 The 8-puzzle problem is a puzzle invented and popularized by Noyes Palmer Chapman in the 1870s.
 It is played on a 3-by-3 grid with 8 square blocks labeled 1 through 8 and a blank square. Your goal is to rearrange the blocks so that they are in order.You are permitted to slide blocks horizontally or vertically into the blank square.
 
 <strong>Input:</strong>
-We first insert the size of the puzzle 8 or 15 , then we insert the starting position of 0 , then we insert the remaining elements of the puzzle
+First we insert the size of the puzzle 8 or 15 , then we insert the starting position of 0 , then we insert the remaining elements of the puzzle
 
 <strong>example:</strong>
 8
