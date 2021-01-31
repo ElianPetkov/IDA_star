@@ -18,9 +18,8 @@ You are permitted to slide blocks horizontally or vertically into the blank squa
 3
 7 5 4
 3 2 1
-6 8
+6 8    //This will initialize the following table which will be solved:
 
-This will generate the following table:
 7 5 0
 4 3 2
 1 6 8
